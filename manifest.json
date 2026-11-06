@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "version": "2026.11.07-0304",
+  "game_revision": "c833e97cf3d00a929288cceb1a6cb0b8e1debda9",
+  "engines": {
+    "번역캐시(DeepL)": 1984,
+    "DeepL": 19746,
+    "직접 고침": 75,
+    "Gemini 다듬기": 2077,
+    "DeepL 초벌+Gemini 스토리": 26933,
+    "DeepL 스토리": 638,
+    "공식 이름 맞춤": 1768
+  },
+  "files": {
+    "operators.tsv": {
+      "count": 3522,
+      "sha256": "d38c4a698105cda4f39ce29e012a4a8dc96acda280278162e47814c25e6c87fa",
+      "about": "오퍼레이터: 프로필·파일 자료·음성·모듈"
+    },
+    "rogue.tsv": {
+      "count": 3065,
+      "sha256": "e44da686173f88cb66c234cc2837c0c4132273d069775f9f128fd49197d29d4e",
+      "about": "통합전략: 유물·조우·선택지 설명"
+    },
+    "sandbox.tsv": {
+      "count": 1738,
+      "sha256": "8cde1e2a1f883af1f19db9f3ef621ad9c18cfec5bbd88df5697fb72f0cfce6d9",
+      "about": "생명연산"
+    },
+    "events.tsv": {
+      "count": 1912,
+      "sha256": "d99d23a12c0e4d45a8fb47a826ddc343f6687b4bb8c2c015f19a874dabbcbdc1",
+      "about": "이벤트 화면·작전 설명·적 도감"
+    },
+    "ui.tsv": {
+      "count": 11016,
+      "sha256": "ee87e25eeec459d91c2237b5c6f75c4ba122c88aff94d32fd1ff6004cad020cd",
+      "about": "그 밖의 화면 글 (메달·상점·기반시설 등)"
+    },
+    "story.tsv": {
+      "count": 27320,
+      "sha256": "78101e1a8f3a938e763d2207522995b10e090dcbf48e79f23216ab2e1da8bbe1",
+      "about": "스토리 (tools/story_pack.py: DeepL 초벌 → Gemini 인물 말투 맞춤)"
+    },
+    "names.tsv": {
+      "count": 20,
+      "sha256": "766ffa6297353cf28f3410df63ed4409e60af7a2e8ea5fb2cf3179e6ef61ab6f",
+      "about": "한국 서버에 없는 오퍼레이터 이름: 영문 이름을 한국 서버 표기법으로 (배포자가 손으로 정한다. 도구는 번역하지 않는다)"
+    },
+    "templates.tsv": {
+      "count": 384,
+      "sha256": "d6965f9f56720e560479e086e09295b9f2be1fbceba559333364815c9379505f",
+      "about": "숫자가 바뀌는 설명: 스킬·재능·모듈·기반시설·유물. {…} 는 화면 숫자가 들어갈 자리라 지우거나 고치지 말 것"
+    }
+  }
+}
