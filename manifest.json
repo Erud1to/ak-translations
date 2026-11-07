@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "2026.11.07-0304",
+  "version": "2026.11.08-0517",
   "game_revision": "c833e97cf3d00a929288cceb1a6cb0b8e1debda9",
   "engines": {
     "번역캐시(DeepL)": 1984,
@@ -14,7 +14,7 @@
   "files": {
     "operators.tsv": {
       "count": 3522,
-      "sha256": "d38c4a698105cda4f39ce29e012a4a8dc96acda280278162e47814c25e6c87fa",
+      "sha256": "7a4dbacffef6f7bd9e142dbaf3db2f62f423e3ffa631bb946a03b034b5b98836",
       "about": "오퍼레이터: 프로필·파일 자료·음성·모듈"
     },
     "rogue.tsv": {
@@ -29,17 +29,17 @@
     },
     "events.tsv": {
       "count": 1912,
-      "sha256": "d99d23a12c0e4d45a8fb47a826ddc343f6687b4bb8c2c015f19a874dabbcbdc1",
+      "sha256": "7eff5a945ffcaa2eded1913d06ba363c092b37ad38b66c0500e27cd6766b18bc",
       "about": "이벤트 화면·작전 설명·적 도감"
     },
     "ui.tsv": {
       "count": 11016,
-      "sha256": "ee87e25eeec459d91c2237b5c6f75c4ba122c88aff94d32fd1ff6004cad020cd",
+      "sha256": "3182cec0db51e2a43ca75706a2a06e19f4c3285c8612dd30a7919f8fbf35cf42",
       "about": "그 밖의 화면 글 (메달·상점·기반시설 등)"
     },
     "story.tsv": {
       "count": 27320,
-      "sha256": "78101e1a8f3a938e763d2207522995b10e090dcbf48e79f23216ab2e1da8bbe1",
+      "sha256": "ec81313619aaa93692b8d49c9c1d871260d8d30114e36769457b7d1a39bd7926",
       "about": "스토리 (tools/story_pack.py: DeepL 초벌 → Gemini 인물 말투 맞춤)"
     },
     "names.tsv": {
