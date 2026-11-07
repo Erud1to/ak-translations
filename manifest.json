@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "2026.11.08-0517",
+  "version": "2026.11.08-0524",
   "game_revision": "c833e97cf3d00a929288cceb1a6cb0b8e1debda9",
   "engines": {
     "번역캐시(DeepL)": 1984,
@@ -29,12 +29,12 @@
     },
     "events.tsv": {
       "count": 1912,
-      "sha256": "7eff5a945ffcaa2eded1913d06ba363c092b37ad38b66c0500e27cd6766b18bc",
+      "sha256": "e7c02109edefd713cc0a3fd2a7c4d7b1fc71a6acf9fda11ef3d60752a27974d0",
       "about": "이벤트 화면·작전 설명·적 도감"
     },
     "ui.tsv": {
       "count": 11016,
-      "sha256": "3182cec0db51e2a43ca75706a2a06e19f4c3285c8612dd30a7919f8fbf35cf42",
+      "sha256": "8e48080ed751bf54442e06f382d15d039c52e057df246f0209f8bf19f5dad894",
       "about": "그 밖의 화면 글 (메달·상점·기반시설 등)"
     },
     "story.tsv": {
