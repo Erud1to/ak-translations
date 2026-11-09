@@ -1,20 +1,20 @@
 {
   "format": 1,
-  "version": "2026.11.08-1727",
-  "game_revision": "b9ce366846458c23f87b456801b0be1cc14e8fba",
+  "version": "2026.11.09-1953",
+  "game_revision": "b1031d1035e8df3042f601e33d5c1dfab8345d59",
   "engines": {
-    "번역캐시(DeepL)": 1984,
-    "DeepL": 19746,
+    "번역캐시(DeepL)": 1990,
+    "DeepL": 21364,
     "직접 고침": 75,
-    "Gemini 다듬기": 2077,
+    "Gemini 다듬기": 2575,
     "DeepL 초벌+Gemini 스토리": 26933,
     "DeepL 스토리": 638,
     "공식 이름 맞춤": 1768
   },
   "files": {
     "operators.tsv": {
-      "count": 3522,
-      "sha256": "7a4dbacffef6f7bd9e142dbaf3db2f62f423e3ffa631bb946a03b034b5b98836",
+      "count": 3523,
+      "sha256": "17424999ecace27c5dbe507286db8d43ca27f2277a7a772c513efe9d48ca121d",
       "about": "오퍼레이터: 프로필·파일 자료·음성·모듈"
     },
     "rogue.tsv": {
@@ -28,19 +28,14 @@
       "about": "생명연산"
     },
     "events.tsv": {
-      "count": 1912,
-      "sha256": "e7c02109edefd713cc0a3fd2a7c4d7b1fc71a6acf9fda11ef3d60752a27974d0",
+      "count": 3268,
+      "sha256": "185a8940b3eb0fbf834c87c772b2f950732e0f3ead9aa03c8bd201c7ead5871f",
       "about": "이벤트 화면·작전 설명·적 도감"
     },
     "ui.tsv": {
-      "count": 11011,
-      "sha256": "531784c522fa34d2fad96d4dae5898e8bbbc19a50361fedc99dd342e30e0235c",
+      "count": 11206,
+      "sha256": "07f15fd44e64fb3f66e94a1e1bf75ffc00f0b2b77067699a49c66e0ea5825476",
       "about": "그 밖의 화면 글 (메달·상점·기반시설 등)"
-    },
-    "templates.tsv": {
-      "count": 384,
-      "sha256": "d6965f9f56720e560479e086e09295b9f2be1fbceba559333364815c9379505f",
-      "about": "숫자가 바뀌는 설명: 스킬·재능·모듈·기반시설·유물. {…} 는 화면 숫자가 들어갈 자리라 지우거나 고치지 말 것"
     },
     "story.tsv": {
       "count": 27320,
@@ -51,6 +46,11 @@
       "count": 20,
       "sha256": "766ffa6297353cf28f3410df63ed4409e60af7a2e8ea5fb2cf3179e6ef61ab6f",
       "about": "한국 서버에 없는 오퍼레이터 이름: 영문 이름을 한국 서버 표기법으로 (배포자가 손으로 정한다. 도구는 번역하지 않는다)"
+    },
+    "templates.tsv": {
+      "count": 454,
+      "sha256": "6b97750d3045bed3021ebf0364ea78a1878f99a56647e8dbdec5be5bfc3b6403",
+      "about": "숫자가 바뀌는 설명: 스킬·재능·모듈·기반시설·유물. {…} 는 화면 숫자가 들어갈 자리라 지우거나 고치지 말 것"
     }
   }
 }
